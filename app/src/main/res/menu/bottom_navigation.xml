@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_music"
+        android:icon="@drawable/music"
+        android:title="@string/my_musics" />
+
+    <item
+        android:id="@+id/nav_playlist"
+        android:icon="@drawable/playlist"
+        android:title="@string/playlists" />
+
+    <item
+        android:id="@+id/nav_recommended"
+        android:icon="@drawable/recomended"
+        android:title="@string/recommended" />
+
+    <item
+        android:id="@+id/nav_all_music"
+        android:icon="@drawable/all_music"
+        android:title="@string/all_musics" />
+
+
+</menu>
